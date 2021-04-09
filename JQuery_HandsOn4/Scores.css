@@ -1,0 +1,19 @@
+body{
+	font-family: sans-serif;
+}
+table{
+	background-color:#E8DCFF;
+	border-collapse:collapse;
+}
+input[type=text]
+ {  
+    background-color:#FEFFB0;
+	font-weight:bold;
+	text-align:right;
+ }
+ .result{
+       color:#174C68;
+	   font-weight: bold;
+	   font-size:18px;
+	   text-align:center;
+ }
